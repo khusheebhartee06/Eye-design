@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: light;
+}
+#icon a:hover{
+    box-shadow: 1px 1px 3px 3px goldenrod;  
+    }
+   .col-sm-12 h1{
+        font-size: 55px;
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+    .col-sm-12 p{
+        padding-left: 14%;
+        padding-right: 14%; 
+    }
+    #img{
+        height: 60%;
+        width: 100%;
+    }
+    .dropdown:hover > .dropdown-menu{
+        display: block;
+    }

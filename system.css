@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: light;
+}
+#icon a:hover{
+box-shadow: 1px 1px 3px 3px rgb(157, 130, 62);  
+}
+#img1 img{
+
+    width: 100%;
+}
+#img1 h1{
+    font-size: 55px;
+}
+#img1 h1 i{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    color:rgb(192, 166, 99);
+}
+#myimage img{
+    height: 100%;
+    width: 100%;
+ }
+ .dropdown:hover > .dropdown-menu{
+    display: block;
+}

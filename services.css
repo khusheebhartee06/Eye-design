@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: light;
+}
+#icon a:hover{
+    box-shadow: 1px 1px 3px 3px goldenrod;  
+    }
+#mycontainer img{
+    width: 100%;
+    height: 60%;
+}
+.dropdown:hover > .dropdown-menu{
+   display: block;
+}
+ #myimage img{
+    height: 100%;
+    width: 100%;
+ }
+ #mycontainer1 h1 i{
+    color: rgb(182, 131, 3);
+ }
+ #mycontainer1{
+    background-color: rgb(233, 230, 230);
+ }
+ #myservices h1{
+font-size: 55px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ #myservices img{
+    margin-top: 30%;
+    height: 80%;
+    width:100%;
+ }
+ #myservices1 h1{
+    font-size: 65px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }

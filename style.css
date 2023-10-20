@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+    color: light;
+}
+#icon a:hover{
+    box-shadow: 1px 1px 3px 3px goldenrod;  
+    }
+ #mycontainer .col-12{
+    background-image: url(home_featured_ziegler.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+ }
+ #mycontainer h1{
+    color: rgb(246, 251, 251);
+    font-size: 55px;
+    font-weight: bolder;
+    margin: 15%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }
+ .dropdown:hover > .dropdown-menu{
+   display: block;
+}
+ #itelic i{
+    color: rgb(216, 181, 138);
+ }
+
+ #itelic1 h1{
+    color: rgb(216, 181, 138);
+    font-size: 105px;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+ }
+ #itelic img{
+   height: 40%;
+   width: 100%;
+ }
